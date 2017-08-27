@@ -1,0 +1,29 @@
+20 30 4
+XÏÎÐÒXXXXXXXXXXXXXXXXXXXXXXXXX
+XWWWWW   T                   X
+XWWWWW   T                   X
+XWWWWW   T   XXXÑÊËÀÄXXXX    X
+XWWWWW   T   XO              X
+XWWWWW       XX XXXXXX  XXX  X
+XWWWWW   T   X          X    X
+XWWWWW   T   X     X    X    X 
+XWWWWW   T   X  X  X    X    X
+XWWXWW   T   X  X  X    X  O X
+XWXXXW       XO X  X    XÃÀÐÀÆ
+XWXXXW   T   XXXX  XXX   XXXXX
+XWXXXW Q T               XXXXX
+XWXXXW Q T   XXXX XXXX       X
+XWXXXW       X            O  X
+XWXXXW   T   X  TTTTTTTTT XX X
+XWXXXW Q T   X  XXXTTTTT  XX X
+XWXXXW Q T   X TXXXTTT    XX X   
+XWWWWW   T   X     TT   P    X
+XXXXXXXXXXXXXXXXXXXXXXXXÂÛÅÇÄX
+
+6 12 1
+XXXXXXXXXXXX
+X          X
+X  P       X
+X  Q     T X
+X  O     W X
+XXXXXXXXXXXX
